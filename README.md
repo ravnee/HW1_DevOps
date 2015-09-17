@@ -9,6 +9,7 @@ DevOps Homework 1
     npm install
     
     
+    
     #!/bin/sh  
     echo "start post-commit process"  
     xdg-open "http://google.com" &  
