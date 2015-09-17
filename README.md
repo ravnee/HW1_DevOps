@@ -4,7 +4,8 @@ DevOps Homework 1
 
 # Steps taken
 
-1. List all the dependencies in package.json and install them using 
+1. List all the dependencies in package.json and install them using  
+
     npm install
 
 2. Run the main script that will internally call both the Digital Ocean and AWS script
