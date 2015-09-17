@@ -1,0 +1,16 @@
+{
+  "name": "servers",
+  "version": "0.0.0",
+  "description": "\"Workshop Demo\"",
+  "main": "mainScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.2"
+    "aws-sdk": "2.2.0"
+    "needle": "^0.7.10"
+  }
+}
