@@ -7,6 +7,8 @@ DevOps Homework 1
 Script Files for   
 DigitalOcean - digitalOceanMain.js  
 AWS - awsMain.js
+Wrapper Script - mainScript.js
+Playbook for ansible - playbook.yml
 
 1. List all the dependencies in package.json and install them using  
   ```
