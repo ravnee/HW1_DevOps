@@ -7,6 +7,14 @@ DevOps Homework 1
 1. List all the dependencies in package.json and install them using  
 
     npm install
+    
+    
+    #!/bin/sh  
+    echo "start post-commit process"  
+    xdg-open "http://google.com" &  
+    echo "stop post-commit process"  
+    
+
 
 2. Run the main script that will internally call both the Digital Ocean and AWS script
 
