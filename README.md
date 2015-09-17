@@ -5,8 +5,9 @@ DevOps Homework 1
 # Steps taken
 
 1. List all the dependencies in package.json and install them using  
-
-    npm install
+```
+npm install
+```
     
     
     
