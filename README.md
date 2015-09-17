@@ -4,8 +4,8 @@ DevOps Homework 1
 
 ## Steps taken
 
-Script Files for 
-DigitalOcean - digitalOceanMain.js
+Script Files for   
+DigitalOcean - digitalOceanMain.js  
 AWS - awsMain.js
 
 1. List all the dependencies in package.json and install them using  
